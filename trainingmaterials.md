@@ -43,9 +43,11 @@
 *[Embedded Linux System](https://www.youtube.com/watch?v=3OL1p5YtW1M&list=PLW0xjGvRlZE4wq5-d7vUerryhQyp4YjyF)*
 
 
-### Others
+## Others
 *[QT backend](https://www.youtube.com/watch?v=ao4OcOB2jwI&list=PLW0xjGvRlZE5iYvpfPVr2wylQTu4jDks9)*
+
 *[Art of Exploit](https://www.youtube.com/watch?v=mki4MuXgb5g&list=PLW0xjGvRlZE5qXtgJzU32Z2ckVztXqZYu)*
+
 *[Our Projects](https://www.youtube.com/watch?v=iTVKuR4HmAk&list=PLW0xjGvRlZE45PsrZTfz8HqRfZinnxvIX)*
 
 
