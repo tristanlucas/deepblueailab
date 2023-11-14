@@ -3,16 +3,16 @@
 ),     [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
 )*
 
-#### Software System & Infra Service:
+### Software System & Infra Service:
 Software and infrastructure services are essential components of modern business operations and can help you to streamline your workflows, improve efficiency, and achieve your business goals.
 
-#### Education:
+### Education:
 We can offer diplomas in Engineering (AI Engineering Diploma, Computer Science Diploma, Robotics Engineering Diploma). 
     
-#### Research:
+### Research:
 AI research and autonomous robotics solutions are cutting-edge technologies that can help you to gain a competitive advantage in your industries.
 
-#### For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL), [Github](https://github.com/ROM-robotics), [Youtube](https://www.youtube.com/@ROMROBOTICS).
+### For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL), [Github](https://github.com/ROM-robotics), [Youtube](https://www.youtube.com/@ROMROBOTICS).
 All Softwares are maintained by ROM Robotics.
 
 #### Mail 
