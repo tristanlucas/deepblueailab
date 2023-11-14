@@ -1,5 +1,5 @@
 # What We Offer
-*[Home](./README.md),  [Training Materials](./trainingmaterials.mdx),  [Service](https://romrobots.com),  [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
+*[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Service](https://romrobots.com),  [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
 )*
 
 ## Engineering Diplomas
