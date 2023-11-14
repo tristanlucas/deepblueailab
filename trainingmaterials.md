@@ -51,3 +51,6 @@
 *[Our Projects](https://www.youtube.com/watch?v=iTVKuR4HmAk&list=PLW0xjGvRlZE45PsrZTfz8HqRfZinnxvIX)*
 
 
+All Softwares are maintained by [ROM Robotics](https://romrobots.com).
+
+### For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL), [Github](https://github.com/ROM-robotics), [Youtube](https://www.youtube.com/@ROMROBOTICS).
