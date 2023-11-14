@@ -20,7 +20,7 @@ All Softwares are maintained by ROM Robotics.
 *   info@deepblueailab.com
 *   deepblue.training.sokl@gmail.com
 
-### About Us
+### Location
 *   No 86(A) Arzarni street, Bahan Ts, Yangon (+95) 9-259288229 Head Office.
 *   No (215) 4th floor, Zewasoe street, South Oakkalapa Ts, Yangon (+95) 9-259288230 South Oakkala Branch.
 *   No (222) 2nd floor, Daung Min street, South Oakkalapa Ts, Yangon (+95) 9-250074005 Deeb Blue Branch.
