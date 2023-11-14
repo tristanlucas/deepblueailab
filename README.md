@@ -3,10 +3,9 @@
 
 1. Software System & Infra:
     ```scss
-    ---
-    ---
-
-    Software and infrastructure services are essential components of modern business operations and can help you to streamline your workflows, improve efficiency, and achieve your business goals.
+    Software and infrastructure services are essential components of
+    modern business operations and can help you to streamline your workflows,
+    improve efficiency, and achieve your business goals.
     ```
 2. Education:
 
