@@ -1,5 +1,5 @@
 # What We Offer
-*[Serivce](http://pages-themes.github.io/minimal),     [Education](http://pages-themes.github.io/minimal),     [Training](http://pages-themes.github.io/minimal)*
+*[Serivce](http://pages-themes.github.io/minimal),     [Education](http://pages-themes.github.io/minimal),     [Research](http://pages-themes.github.io/minimal)*
 
 ## Software System & Infra:
 Software and infrastructure services are essential components of modern business operations and can help you to streamline your workflows, improve efficiency, and achieve your business goals.
