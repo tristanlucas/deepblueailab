@@ -1,5 +1,5 @@
 # What We Offer
-*[Serivce](https://romrobots.com),     [Education](./education.md),     [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
+*[Service](https://romrobots.com),     [Education](./education.md),     [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
 )*
 
 ### Software System & Infra Service:
