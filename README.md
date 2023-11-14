@@ -3,10 +3,8 @@
 
 1. Software System & Infra:
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```ruby
+    Software and infrastructure services are essential components of modern business operations and can help you to streamline your workflows, improve efficiency, and achieve your business goals.
     ```
 
 2. Education:
