@@ -69,3 +69,7 @@
 - **AI powered chatbots**
 
 #### Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
+
+All Softwares are maintained by [ROM Robotics](https://romrobots.com).
+
+### For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL), [Github](https://github.com/ROM-robotics), [Youtube](https://www.youtube.com/@ROMROBOTICS).
