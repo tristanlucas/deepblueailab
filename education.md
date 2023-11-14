@@ -14,7 +14,7 @@
 
 > We are proud to have already trained many students from Korea, London, Singapore, and Thailand who have gone on to work as employees in IT and engineering, including robotics companies in other countries. Our students have a deep understanding of the latest tools and technologies in the field of AI and robotics and are equipped with the skills and knowledge they need to pursue successful careers in this exciting field.
 
-## NOTE: ####Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
+### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
 
 
 ## Diploma in Robotics Engineering
