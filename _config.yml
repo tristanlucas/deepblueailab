@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 name: Deep Blue AI Lab
-title: null
+title: Deep Blue AI Lab
 description: Deep Blue AI Lab, a subsidiary of ROM Robotics, established in early 2023, is a cutting-edge research facility specializing in artificial intelligence and machine learning. As a proud sub-company of ROM Robotics, our lab is dedicated to pushing the boundaries of AI technology and its applications. Our team of passionate researchers and engineers is committed to innovation, with a focus on developing intelligent solutions that contribute to the advancement of robotics. Explore the forefront of AI research with Deep Blue AI Lab, where we harness the power of technology to shape the future.
 
