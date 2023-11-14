@@ -1,21 +1,8 @@
-# deepblueailab
+# What We Offer
 
-### Service, Education, Training
+*[serivce](http://pages-themes.github.io/minimal),[Education](http://pages-themes.github.io/minimal),[Training](http://pages-themes.github.io/minimal),*
 
-
-# The Minimal theme
-
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
-
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
-
-![Thumbnail of Minimal](thumbnail.png)
-
-## Usage
-
-To use the Minimal theme:
-
-1. Add the following to your site's `_config.yml`:
+1. Software System & Infra:
 
     ```yml
     remote_theme: pages-themes/minimal@v0.2.0
@@ -23,7 +10,13 @@ To use the Minimal theme:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
     ```
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+2. Education:
+
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
+    
+2. Training:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
