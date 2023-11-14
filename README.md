@@ -1,6 +1,5 @@
 # What We Offer
-
-*[Serivce](http://pages-themes.github.io/minimal),     [Education](http://pages-themes.github.io/minimal),     [Training](http://pages-themes.github.io/minimal),*
+*[Serivce](http://pages-themes.github.io/minimal),     [Education](http://pages-themes.github.io/minimal),     [Training](http://pages-themes.github.io/minimal)*
 
 1. Software System & Infra:
 
