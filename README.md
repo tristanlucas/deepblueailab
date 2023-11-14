@@ -1,5 +1,7 @@
 # What We Offer
-*[Serivce](http://pages-themes.github.io/minimal),     [Education](http://pages-themes.github.io/minimal),     [Research](http://pages-themes.github.io/minimal)*
+*[Serivce](https://romrobots.com),     [Education](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
+),     [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
+)*
 
 ## Software System & Infra Service:
 Software and infrastructure services are essential components of modern business operations and can help you to streamline your workflows, improve efficiency, and achieve your business goals.
@@ -10,7 +12,8 @@ We can offer diplomas in Engineering (AI Engineering Diploma, Computer Science D
 ## Research:
 AI research and autonomous robotics solutions are cutting-edge technologies that can help you to gain a competitive advantage in your industries.
 
-For more information, see [Facebook](https://jekyllrb.com/docs/variables/) ,  [Github](https://jekyllrb.com/docs/variables/),  [Youtube](https://jekyllrb.com/docs/variables/).
+For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
+),  [Github](https://github.com/ROM-robotics),  [Youtube](https://www.youtube.com/@ROMROBOTICS).
 
 ## About Us
 
