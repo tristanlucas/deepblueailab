@@ -68,4 +68,4 @@
 - **IBM Waston**
 - **AI powered chatbots**
 
-#### Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](https://www.youtube.com/@ROMROBOTICS).
+#### Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
