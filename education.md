@@ -1,5 +1,5 @@
 # What We Offer
-*[Home](./README.md),   [Service](https://romrobots.com),     [Education](./education.md),     [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
+*[Home](./README.md),  [Service](https://romrobots.com),  [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
 )*
 
 ## Engineering Diplomas
