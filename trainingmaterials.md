@@ -4,21 +4,33 @@
 
 ### Mathematics
 *[Linear Algebra 01](https://www.youtube.com/watch?v=GZ7bXSdt1IM&list=PLW0xjGvRlZE7yBF1oOaWMLUCSjyt0rzQq)*
+
 *[Linear Algebra 02](https://www.youtube.com/watch?v=fssUJr30gX8&list=PLW0xjGvRlZE40TxtTcy8PdMtKtyTvKflh)*
+
 *[Calculus for Neural Network](https://www.youtube.com/watch?v=fSGn_R5p1mQ&list=PLW0xjGvRlZE7hqkPRFSvnJWZCf5d5Xcvo)*
+
 *[Linear Algebra for Neural Network](https://www.youtube.com/watch?v=V46fUm4rBdw&list=PLW0xjGvRlZE6hALMsGFCsDLRK2vAQ9fs7)*
 
 ### Robotics Software Developement
+
 *[ROS1 01 Basic](https://www.youtube.com/watch?v=0YOZqPAhv_A&list=PLW0xjGvRlZE40bEtrT3Re4sv5od1sO9OM)*
+
 *[ROS1 02 Snippets](https://www.youtube.com/watch?v=iAQreB_HhCc&list=PLW0xjGvRlZE6FKhVyv3O5PwmDItaoR-nX)*
+
 *[ROS1 03 Computer Vision](https://www.youtube.com/watch?v=IxVmOu2rFCs&list=PLW0xjGvRlZE4fK5ucTAyUoU3BeBBgfJYV)*
+
 *[ROS1 04 Point Cloud](https://www.youtube.com/watch?v=PDA36TBzj6M&list=PLW0xjGvRlZE6V3siHttZmCgRSL-uCTV6f)*
+
 *[ROS1 05 Moveit!](https://www.youtube.com/watch?v=eD8CqIKtPLE&list=PLW0xjGvRlZE7q5zSDQQS9YG5Hs29uNB2e)*
+
 *[ROS1 06 Dynamixel](https://www.youtube.com/watch?v=zU8WKWFtUiU&list=PLW0xjGvRlZE5Ri_6rfKkwpRTrA8rmNj93)*
+
 *[ROS1 Complete Course](https://www.youtube.com/watch?v=FIe6yZtiHGE&list=PLW0xjGvRlZE4BjsjVU_WARVM7ezl5J6yc)*
+
 *[solidwork and  robot simulation](https://www.youtube.com/watch?v=Xx0UxCZUNDo&list=PLW0xjGvRlZE6kFQgddDQu1Bae8GS7JSUN)*
 
 *[ROS2 Humble](https://www.youtube.com/watch?v=ciXdZhIDwuo&list=PLW0xjGvRlZE4hnNKbxuZEdpOKYut1X_WA)*
+
 *[SLAM](https://www.youtube.com/watch?v=FqwJCd3b9rQ&list=PLW0xjGvRlZE6U_KJBUxL4DK_FZVDdAFei)*
 
 ### System Administration
