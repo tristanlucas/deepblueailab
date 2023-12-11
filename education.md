@@ -18,7 +18,7 @@
 
 ## ကျောင်းသား/ သူတို့အတွက် ပိုမိုထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
-## Robotic Developer Course 
+## Diploma in Robotic Developer
 **Foundational 1 Year Syllabus**
 
 - **AMR 01 Linux For Robotics**
@@ -35,8 +35,9 @@
 - **AMR 12 SLAM**
 
 
-## Robotic Engineering Course 
-**( Developer Course ပြီးသွားမှ Engineer Course ကို ဆက်လက်လေ့လာနိုင်ပါတယ်။)**
+## Diploma in Robotic Engineering
+** Developer Course ပြီးသွားမှ Engineer Course ကို ဆက်လက်လေ့လာနိုင်ပါတယ်။**
+
 **Advanced 1 year (Comming Soon)**
 
 - **AMR 13 Deep Dive into SLAM ROS2**
