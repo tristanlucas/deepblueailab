@@ -16,22 +16,38 @@
 
 ### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
 
+# ကျောင်းသား/ သူတို့အတွက် ပိုမိုထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
-## Diploma in Robotics Engineering
-**Syllabus**
+## Robotic Developer Course 
+**Foundational 1 Year Syllabus**
 
-- **Linux System**
-- **Advanced C++**
-- **ROS2 Framework**
-- **Building AMR**
-- **ROS2 NAVIGATION**
-- **Custom OS, Software Engineering**
-- **Linear Algebra, Calculus, Statistics**
-- **Mechanics**
-- **Control Theory**
-- **Path Planning**
-- **SLAM**
-- **Solid Work (robot design & simulation)**
+- **AMR 01 Linux For Robotics**
+- **AMR 02 CPP Programming**
+- **AMR 03 ROS2 Basic and Intermediate**
+- **AMR 04 Building Autonomous Mobile Robot**
+- **AMR 05 Navigation System**
+- **AMR 06 Embedded Programming**
+- **AMR 07 DSP**
+- **AMR 08 Mathematics**
+- **AMR 09 Industrial Robots**
+- **AMR 10 Building Industrial Type AMR**
+- **AMR 11 Micro ROS**
+- **AMR 12 SLAM**
+
+
+## Robotic Engineer Course ( Developer Course ပြီးသွားမှ Engineer Course ကို ဆက်လက်လေ့လာနိုင်ပါတယ်။)
+**Advanced 1 year (Comming Soon)**
+
+- **AMR 13 Deep Dive into SLAM ROS2**
+- **AMR 14 Mechanic**
+- **AMR 15 Control Theory**
+- **AMR 16 Solidwork & Robot Design**
+- **AMR 17 Circuit Design**
+- **AMR 18 Power Source** 
+- **AMR 19 Artificial Intelligence in Robot System**
+- **AMR 20 Android System**
+- **AMR 21 Developer Guide**
+
 
 ## Diploma in Computer Science
 **Syllabus**
