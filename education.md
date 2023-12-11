@@ -36,7 +36,7 @@
 
 
 ## Diploma in Robotic Engineering
-** Developer Course ပြီးသွားမှ Engineer Course ကို ဆက်လက်လေ့လာနိုင်ပါတယ်။**
+Developer Course ပြီးသွားမှ Engineer Course ကို ဆက်လက်လေ့လာရမှာဖြစ်ပါတယ်။
 
 **Advanced 1 year (Comming Soon)**
 
