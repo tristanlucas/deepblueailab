@@ -16,7 +16,7 @@
 
 ### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
 
-# ကျောင်းသား/ သူတို့အတွက် ပိုမိုထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
+## ကျောင်းသား/ သူတို့အတွက် ပိုမိုထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
 ## Robotic Developer Course 
 **Foundational 1 Year Syllabus**
