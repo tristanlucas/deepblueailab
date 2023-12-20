@@ -54,6 +54,16 @@ Developer Course ပြီးသွားမှ Engineer Course ကို ဆက
 ## Diploma in Computer Science
 **Syllabus**
 
+
+Computer Architecture & System
+- ** • Programming & OOP (C++, Python)
+- ** • Software Development Life Cycle
+- ** • Database System & SQL
+- ** • Networking Foundation
+- ** • Operating System & System Administration
+- ** • Calculus, Linear Algebra &
+
+
 - **Computer Architecture**
 - **Programming (C++, Python)**
 - **Software Development**
