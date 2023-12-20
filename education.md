@@ -55,6 +55,7 @@ Developer Course ပြီးသွားမှ Engineer Course ကို ဆက
 **Syllabus**
 
 - **Computer Architecture & System
+- **Computer Architecture & System
 - **Programming & OOP (C++, Python)
 - **Software Development Life Cycle
 - **Database System & SQL
