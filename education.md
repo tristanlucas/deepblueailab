@@ -72,9 +72,10 @@
 ## Diploma in System & Network Engineering (6 Months)
 **Syllabus**
 
+- **Computer Network Administration**
 - **Linux System Administration**
 - **Linux System Security**
-- **Computer Network Administration**
+- **Cloud Computing**
 - **Linux Server Administration**
 - **Embedded Linux For iOT Devices**
 - **Yocto, Buildroot, DTS > DTC > DTB**
