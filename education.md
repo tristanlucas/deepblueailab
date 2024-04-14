@@ -2,11 +2,7 @@
 *[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Service](https://romrobots.com),  [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
 )*
 
-## Engineering Diplomas
-
-> We offer two types of certifications for all diplomas. Deep Blue Certified Diploma and Mantissa College Certified Diploma (Malaysia) for 1 year certification. And both the studies courses & syllabus are same. But the difference is that Mantissa College diploma will cost additional $400 for exam fees. Not included in Deep Blue Certified Diploma.
-
-### Available Diploma
+### Engineering Diplomas
 
 - **Computer Science Diploma**
 - **Robotic Engineering Diploma**
@@ -18,8 +14,8 @@
 
 ## ကျောင်းသား/ သူတို့အတွက် ပိုမိုထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
-## Diploma in Robotic Developer
-**Foundational 1 Year Syllabus**
+## Diploma in Robotic Engineering
+**Foundational 1st Year**
 
 - **AMR 01 Linux For Robotics**
 - **AMR 02 CPP Programming**
@@ -34,11 +30,8 @@
 - **AMR 11 Micro ROS**
 - **AMR 12 SLAM**
 
-
 ## Diploma in Robotic Engineering
-Developer Course ပြီးသွားမှ Engineer Course ကို ဆက်လက်လေ့လာရမှာဖြစ်ပါတယ်။
-
-**Advanced 1 year (Comming Soon)**
+**Advanced 2nd year**
 
 - **AMR 13 Deep Dive into SLAM ROS2**
 - **AMR 14 Mechanic**
@@ -50,26 +43,7 @@ Developer Course ပြီးသွားမှ Engineer Course ကို ဆက
 - **AMR 20 Android System**
 - **AMR 21 Developer Guide**
 
-
-## Diploma in Computer Science
-**Syllabus**
-
-- **Computer Architecture & System**
-- **Programming & OOP (C++, Python)**
-- **Software Development Life Cycle**
-- **Database System & SQL**
-- **Networking Foundation**
-- **Operating System & System Administration**
-- **Calculus, Linear Algebra & Statistics**
-- **Cloud Computing and Emerging Technologies**
-- **Web Development & Frameworks (Flask, Django)**
-- **Data Structure and Algorithms**
-- **Advanced Linux System**
-- **Simulation of Network Administration**
-- **DevOps**
-- **IT Industrial Workshop**
-
-## Diploma in AI Engineering
+## Diploma in AI Engineering (6 Months)
 **Syllabus**
 
 - **Warming up Introduction to AI**
@@ -92,8 +66,43 @@ Developer Course ပြီးသွားမှ Engineer Course ကို ဆက
 - **Neural Language Processing**
 - **Reinforcement Learning**
 - **Advaced OpenCV Projects**
-- **IBM Waston**
 - **AI powered chatbots**
+
+
+## Diploma in System & Network Engineering (6 Months)
+**Syllabus**
+
+- **Linux System Administration**
+- **Linux System Security**
+- **Computer Network Administration**
+- **Linux Server Administration**
+- **Embedded Linux For iOT Devices**
+- **Yocto, Buildroot, DTS > DTC > DTB**
+- **Nand, Nor, Flash, SD Boot optimization**
+- **UART, JTAG, SPI, Communication**
+- **Linux Routers & OpenWRT**
+- **System Implementation & Analysis**
+- **Open Source OTA & A/B Testing For CI/CD**
+
+
+## Diploma in Computer Science (6 Months)
+**Syllabus**
+
+- **Computer Architecture & System**
+- **Programming & OOP (C++, Python)**
+- **Software Development Life Cycle**
+- **Database System & SQL**
+- **Networking Foundation**
+- **Operating System & System Administration**
+- **Calculus, Linear Algebra & Statistics**
+- **Cloud Computing and Emerging Technologies**
+- **Web Development & Frameworks (Flask, Django)**
+- **Data Structure and Algorithms**
+- **Advanced Linux System**
+- **Simulation of Network Administration**
+- **DevOps**
+- **IT Industrial Workshop**
+
 
 
 All Softwares are maintained by [ROM Robotics](https://romrobots.com).
