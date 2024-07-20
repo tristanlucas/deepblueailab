@@ -69,7 +69,7 @@
 - **AI powered chatbots**
 
 
-## Diploma in System & Network Engineering (1 Year)
+## Computer System & Network Engineering (4 Months)
 **Syllabus**
 
 - **Computer Network Administration**
