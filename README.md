@@ -6,7 +6,7 @@
 Software and infrastructure services are essential components of modern business operations and can help you to streamline your workflows, improve efficiency, and achieve your business goals.
 
 ### Education:
-We offer diplomas in Engineering (AI Engineering Diploma, Computer Science Diploma, Robotics Engineering Diploma). [For More Details](./education.md).
+We offer diplomas in Engineering (AI Engineering Diploma, Embedded System Engineering Diploma, Robotics Engineering Diploma, Computer Network & System Adminstration). [For More Details](./education.md).
     
 ### Research:
 AI research and autonomous robotics solutions are cutting-edge technologies that can help you to gain a competitive advantage in your industries.
