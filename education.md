@@ -4,7 +4,7 @@
 
 ### Engineering Diplomas
 
-- **Computer Science Diploma**
+- **Embedded System Engineering**
 - **Robotic Engineering Diploma**
 - **AI Engineering Diploma**
 
@@ -69,7 +69,7 @@
 - **AI powered chatbots**
 
 
-## Diploma in System & Network Engineering (6 Months)
+## Diploma in System & Network Engineering (1 Year)
 **Syllabus**
 
 - **Computer Network Administration**
@@ -86,23 +86,22 @@
 - **Open Source OTA & A/B Testing For CI/CD**
 
 
-## Diploma in Computer Science (6 Months)
+## Diploma in Embedded System Engineering (1 Year)
 **Syllabus**
 
-- **Computer Architecture & System**
-- **Programming & OOP (C++, Python)**
-- **Software Development Life Cycle**
-- **Database System & SQL**
-- **Networking Foundation**
-- **Operating System & System Administration**
-- **Calculus, Linear Algebra & Statistics**
-- **Cloud Computing and Emerging Technologies**
-- **Web Development & Frameworks (Flask, Django)**
-- **Data Structure and Algorithms**
-- **Advanced Linux System**
-- **Simulation of Network Administration**
-- **DevOps**
-- **IT Industrial Workshop**
+- **Linux System Administration**
+- **Programming & OOP C++**
+- **Concurrency & Multithreading**
+- **Embedded Linux System**
+- **Yocto, Buildroot**
+- **Micro Controller Processor - STM32Fxx**
+- **ARM Cortex Based Architectures - Processor**
+- **Graphic Workshop TouchGFx, LVGL**
+- **ARM Bootloader U-Boot**
+- **Realtime Operating System (Free RTOS)**
+- **Debugging & Monitoring on traceAnalyzer**
+- **OTA Update Mechanism & STM**
+
 
 
 
