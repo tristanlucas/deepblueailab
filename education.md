@@ -32,9 +32,10 @@
 - **OTA Update Mechanism & STM**
 
 *[Embedded Engineering Class Fees](./class_fees.md)*
-##   
+
+ 
 *[Embedded Engineering Course Details](./embedded_engineering.md)*
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ## Robotic Engineering Diploma (2 Years)
 **Foundational 1st Year**
@@ -67,10 +68,12 @@
 - **AMR 21 Developer Guide**
 
 *[Robotics Engineering Class Fees](./class_fees.md)*     
-##
+
+
 *[Robotics Engineering Course Details](./robotics_engineering.md)*
 
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## AI Engineering Diploma (6 Months)
 **Syllabus**
@@ -98,9 +101,11 @@
 - **AI powered chatbots**
 
 *[AI Engineering Class Fees](./class_fees.md)*
-##  
+
+
 *[AI Engineering Course Details](./artificial_intelligence_engineering.md)*
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 ## Computer System & Network Engineering (4 Months)
 **Syllabus**
@@ -119,9 +124,10 @@
 - **Open Source OTA & A/B Testing For CI/CD**
 
 *[Class Fees](./class_fees.md)*  
-##
+
+
 *[CS/N Details](./README.md)*
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
 All Softwares are maintained by [ROM Robotics](https://romrobots.com).
