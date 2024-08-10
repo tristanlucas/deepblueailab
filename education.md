@@ -12,10 +12,10 @@
 
 ### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
 
-## ကျောင်းသား/ သူတို့အတွက် industrial အတွေ့အကြုံများစွာရရှိဖို့ ထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
+### ကျောင်းသား/ သူတို့အတွက် industrial အတွေ့အကြုံများစွာရရှိဖို့ ထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
 
-## Diploma in Embedded System Engineering (6 Months)
+## Embedded System Engineering Diploma(6 Months)
 **Syllabus**
 
 - **Linux System Administration**
@@ -31,9 +31,12 @@
 - **Debugging & Monitoring on traceAnalyzer**
 - **OTA Update Mechanism & STM**
 
-*[Class Fees](./class_fees.md),  [Embedded Engineering Course Details](./embedded_engineering.md)*
+*[Embedded Engineering Class Fees](./class_fees.md)*
+##   
+*[Embedded Engineering Course Details](./embedded_engineering.md)*
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-## Diploma in Robotic Engineering (2 Years)
+## Robotic Engineering Diploma (2 Years)
 **Foundational 1st Year**
 
 - **AMR 01 Linux For Robotics**
@@ -50,7 +53,7 @@
 - **AMR 12 SLAM**
 
 
-## Diploma in Robotic Engineering
+## Robotic Engineering Diploma
 **Advanced 2nd year**
 
 - **AMR 13 Deep Dive into SLAM ROS2**
@@ -63,10 +66,13 @@
 - **AMR 20 Android System**
 - **AMR 21 Developer Guide**
 
-*[Class Fees](./class_fees.md),  [Robotics Engineering Course Details](./robotics_engineering.md)*
+*[Robotics Engineering Class Fees](./class_fees.md)*     
+##
+*[Robotics Engineering Course Details](./robotics_engineering.md)*
 
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-## Diploma in AI Engineering (6 Months)
+## AI Engineering Diploma (6 Months)
 **Syllabus**
 
 - **Warming up Introduction to AI**
@@ -91,8 +97,10 @@
 - **Advaced OpenCV Projects**
 - **AI powered chatbots**
 
-*[Class Fees](./class_fees.md),  [AI Engineering Course Details](./artificial_intelligence_engineering.md)*
-
+*[AI Engineering Class Fees](./class_fees.md)*
+##  
+*[AI Engineering Course Details](./artificial_intelligence_engineering.md)*
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ## Computer System & Network Engineering (4 Months)
 **Syllabus**
@@ -110,7 +118,10 @@
 - **System Implementation & Analysis**
 - **Open Source OTA & A/B Testing For CI/CD**
 
-*[Class Fees](./class_fees.md),  [CS/N Details](./README.md)*
+*[Class Fees](./class_fees.md)*  
+##
+*[CS/N Details](./README.md)*
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
 All Softwares are maintained by [ROM Robotics](https://romrobots.com).
