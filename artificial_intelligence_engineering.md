@@ -4,7 +4,7 @@
 ## About
 > AI Engineer တစ်ယောက်အဖြစ်ရပ်တည်နိုင်မယ့် Diploma ဖြစ်ပါတယ်။
 
-#### AI Engineering Diploma(6 Months)
+## AI Engineering Diploma(6 Months)
 **Syllabus**
 
 - **Warming up Introduction to AI**
@@ -29,12 +29,12 @@
 - **Advaced OpenCV Projects**
 - **AI powered chatbots**
 
-#### Learning Style 
+## Learning Style 
 - **In Campus Class**
 - **Online Live Class**
 - **Online Recording (Google Classroom) Class**
 
-#### Class Fees 
+## Class Fees 
 - **In Campus ( 400,000 MMK ) per month**
 - **Online Live Class( 300,000 MMK ) per month**
 - **Online Recording Class ( 250,000 MMK ) per module**

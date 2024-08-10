@@ -49,7 +49,7 @@
 
 > AI Engineering diploma ၏ သင်ရိုးညွှန်းတမ်းများနှင့် diploma အတွက် ကုန်ကျမည့် class fees များကို အောက်ပါလင့်တွင် ဝင်ရောက်လေ့လာနိုင်ပါတယ်။
 
-*[AI Engineering Class Fees](./class_fees.md)*
+*[AI Engineering Class Fees](./artificial_intelligence_engineering.md)*
 
 *[AI Engineering Course Details](./artificial_intelligence_engineering.md)*
 
