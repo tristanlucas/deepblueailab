@@ -12,9 +12,28 @@
 
 ### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
 
-## ကျောင်းသား/ သူတို့အတွက် ပိုမိုထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
+## ကျောင်းသား/ သူတို့အတွက် industrial အတွေ့အကြုံများစွာရရှိဖို့ ထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
-## Diploma in Robotic Engineering
+
+## Diploma in Embedded System Engineering (6 Months)
+**Syllabus**
+
+- **Linux System Administration**
+- **Programming & OOP C++**
+- **Concurrency & Multithreading**
+- **Embedded Linux System**
+- **Yocto, Buildroot**
+- **Micro Controller Processor - STM32Fxx**
+- **ARM Cortex Based Architectures - Processor**
+- **Graphic Workshop TouchGFx, LVGL**
+- **ARM Bootloader U-Boot**
+- **Realtime Operating System (Free RTOS)**
+- **Debugging & Monitoring on traceAnalyzer**
+- **OTA Update Mechanism & STM**
+
+*[Class Fees](./class_fees.md),  [Embedded Engineering Course Details](./embedded_engineering.md)*
+
+## Diploma in Robotic Engineering (2 Years)
 **Foundational 1st Year**
 
 - **AMR 01 Linux For Robotics**
@@ -30,6 +49,7 @@
 - **AMR 11 Micro ROS**
 - **AMR 12 SLAM**
 
+
 ## Diploma in Robotic Engineering
 **Advanced 2nd year**
 
@@ -42,6 +62,9 @@
 - **AMR 19 Artificial Intelligence in Robot System**
 - **AMR 20 Android System**
 - **AMR 21 Developer Guide**
+
+*[Class Fees](./class_fees.md),  [Robotics Engineering Course Details](./robotics_engineering.md)*
+
 
 ## Diploma in AI Engineering (6 Months)
 **Syllabus**
@@ -68,6 +91,8 @@
 - **Advaced OpenCV Projects**
 - **AI powered chatbots**
 
+*[Class Fees](./class_fees.md),  [AI Engineering Course Details](./artificial_intelligence_engineering.md)*
+
 
 ## Computer System & Network Engineering (4 Months)
 **Syllabus**
@@ -85,24 +110,7 @@
 - **System Implementation & Analysis**
 - **Open Source OTA & A/B Testing For CI/CD**
 
-
-## Diploma in Embedded System Engineering (1 Year)
-**Syllabus**
-
-- **Linux System Administration**
-- **Programming & OOP C++**
-- **Concurrency & Multithreading**
-- **Embedded Linux System**
-- **Yocto, Buildroot**
-- **Micro Controller Processor - STM32Fxx**
-- **ARM Cortex Based Architectures - Processor**
-- **Graphic Workshop TouchGFx, LVGL**
-- **ARM Bootloader U-Boot**
-- **Realtime Operating System (Free RTOS)**
-- **Debugging & Monitoring on traceAnalyzer**
-- **OTA Update Mechanism & STM**
-
-
+*[Class Fees](./class_fees.md),  [CS/N Details](./README.md)*
 
 
 All Softwares are maintained by [ROM Robotics](https://romrobots.com).
