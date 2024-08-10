@@ -1,26 +1,38 @@
 # Embedded System Engineering 
-*[Class Fees](./class_fees.md)*
+*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md)*
 
-## About Embedded System Engineering
-
+## About
 > Embedded Engineering Diploma သည် Electronic, Machtronic, Computer Engineer စတဲ့ကျောင်းသား/သူများနှင့်အဓိက သက်ဆိုင်ပြီး Firmware Engineer, 
 
 ## Embedded System Engineering Diploma(6 Months)
 **Syllabus**
 
-- **Linux System Administration**
-- **Programming & OOP C++**
-- **Concurrency & Multithreading**
-- **Embedded Linux System**
-- **Yocto, Buildroot**
-- **Micro Controller Processor - STM32Fxx**
-- **ARM Cortex Based Architectures - Processor**
-- **Graphic Workshop TouchGFx, LVGL**
-- **ARM Bootloader U-Boot**
-- **Realtime Operating System (Free RTOS)**
-- **Debugging & Monitoring on traceAnalyzer**
-- **OTA Update Mechanism & STM**
+- **01 Linux System Administration**
+- **02 Programming & OOP C++**
+- **02 Concurrency & Multithreading**
+- **03 Embedded Linux System**
+- **03 Yocto, Buildroot**
+- **03 ARM Cortex Based Architectures - Processor**
+- **03 ARM Bootloader U-Boot**
+- **04 Micro Controller Processor - STM32Fxx**
+- **05 Graphic Workshop TouchGFx**
+- **06 Realtime Operating System (Free RTOS)**
+- **07 Debugging & Monitoring on traceAnalyzer**
+- **08 OTA Update Mechanism & STM**
+
+### Learning Style 
+- **In Campus Class**
+- **Online Live Class**
+- **Online Recording (Google Classroom) Class**
 
 
 ### Class Fees 
+- **In Campus ( 400,000 MMK ) per month**
+- **Online Live Class( 350,000 MMK ) per month**
+- **Online Recording Class ( 300,000 MMK ) per module**
 
+## Contact
+- **Phone - 09 2500 7400 8**
+- *[Telegram](https://t.me/tristanusa)*
+- *[Facebook ROM Robotics](https://www.facebook.com/ROMROBOTS/)*
+- *[Facebook Deep Blue AI Lab](https://www.facebook.com/deepblueailab/)*
