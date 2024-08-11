@@ -13,7 +13,7 @@
 
 
 
-## No. 1 Embedded System Engineering Diploma(6 Months)
+## No. 1 Embedded System Engineering Diploma(9 Months)
 
 > embedded system engineering diploma ၏ သင်ရိုးညွှန်းတမ်းများနှင့် diploma အတွက် ကုန်ကျမည့် class fees များကို အောက်ပါလင့်တွင် ဝင်ရောက်လေ့လာနိုင်ပါတယ်။
 

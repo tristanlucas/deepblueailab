@@ -37,7 +37,7 @@
 ## Class Fees 
 - **In Campus ( 400,000 MMK ) per month**
 - **Online Live Class( 300,000 MMK ) per month**
-- **Online Recording Class ( 250,000 MMK ) per module**
+- **Online Recording Class ( 250,000 MMK ) per month**
 
 ### Contact
 - **Phone - 09 2500 7400 8**

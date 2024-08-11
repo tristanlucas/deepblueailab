@@ -5,7 +5,7 @@
 > Robotics Engineering Diploma သည် Electronic, Machtronic, Computer Engineer, Computer Science စတဲ့ကျောင်းသား/သူများနှင့်အဓိက သက်ဆိုင်ပြီး Robotics Engineer တစ်ယောက်အဖြစ် အသက်မွေးဝမ်းကျောင်းပြုချင်သူများအတွက် ရည်ရွယ်ပါတယ်။ Diploma Certification သည် ၂ နှစ် ကြာမြင့် မှာဖြစ်ပြီး ပထမ တစ်နှစ်တက်ရုံနဲ့ လုပ်ငန်းခွင်အတွေ့အကြုံများစွာ ရယူနိုင်မှာဖြစ်ပါတယ်။ industrial autonomous mobile robot နှင့် လေ့လာရမှာဖြစ်ပြီး
 အလိုအလျောက်သွားလာနိုင်သည့် စက်ရုပ်ကို တည်ဆောက်နိုင်မှာဖြစ်ပါတယ်။
 
-## Robotics Engineering Diploma(6 Months)
+## Robotics Engineering Diploma(2 Years)
 **Foundational 1st Year**
 
 - **AMR 01 Linux For Robotics**
@@ -42,7 +42,7 @@
 ## Class Fees 
 - **In Campus ( 800,000 MMK ) per month**
 - **Online Live Class( 500,000 MMK ) per month**
-- **Online Recording Class ( 300,000 MMK ) per module**
+- **Online Recording Class ( 300,000 MMK ) per month**
 
 ### Contact
 - **Phone - 09 2500 7400 8**
