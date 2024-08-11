@@ -1,4 +1,4 @@
-# What We Offer
+# Enhanced Your Education with us
 *[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Service](https://romrobots.com),  [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL
 )*
 
