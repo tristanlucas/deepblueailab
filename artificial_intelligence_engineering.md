@@ -41,7 +41,8 @@
 
 ### Contact
 - **Phone - 09 2500 7400 8**
-- *[Telegram](https://t.me/tristanusa)*
+- **Viber - 09 2500 7400 8**
+- *[Telegram](https://t.me/rom_dynamics)*
 - *[Facebook ROM Robotics](https://www.facebook.com/ROMROBOTS/)*
 - *[Facebook Deep Blue AI Lab](https://www.facebook.com/deepblueailab/)*
 

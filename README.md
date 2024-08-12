@@ -11,10 +11,14 @@ We offer diplomas in Engineering (AI Engineering Diploma, Embedded System Engine
 ### Research:
 AI research and autonomous robotics solutions are cutting-edge technologies that can help you to gain a competitive advantage in your industries.
 
-#### Mail 
-*   deepblueailab@gmail.com
-*   info@deepblueailab.com
-*   deepblue.training.sokl@gmail.com
+### Contact
+- **Phone - 09 2500 7400 8**
+- **Viber - 09 2500 7400 8**
+- *[Telegram](https://t.me/rom_dynamics)*
+- *[Facebook ROM Robotics](https://www.facebook.com/ROMROBOTS/)*
+- *[Facebook Deep Blue AI Lab](https://www.facebook.com/deepblueailab/)*
+- **Email - info@romrobots.com**
+- **Email - sale.romdynamics@gmail.com**
 
 ### Location
 *   No 223, ThaMarDi Street, 35 Yards, North Dagon Township, Yangon. (Head Office)
